@@ -1,0 +1,12 @@
+body {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-transition: 2s;
+  -o-transition: 2s;
+  transition: 2s;
+  background-image: -webkit-gradient(linear, right top, left bottom, from(#FFF133), color-stop(50%, #16D611), color-stop(80%, #00A3EF));
+  background-image: -webkit-linear-gradient(top right, #FFF133 0%, #16D611 50%, #00A3EF 80%);
+  background-image: -o-linear-gradient(top right, #FFF133 0%, #16D611 50%, #00A3EF 80%);
+  background-image: linear-gradient(to bottom left, #FFF133 0%, #16D611 50%, #00A3EF 80%); }
